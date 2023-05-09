@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Shell source file
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
+*.sh linguist-language=Shell
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -165,6 +169,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 4 (2022, Tuesday, May 9th at 3:20 pm PST)
+# Line count (including blank lines and compiler line): 175
 # End of script
